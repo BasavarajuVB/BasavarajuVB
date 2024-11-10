@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/iamvb" target="blank"><img src="https://img.shields.io/twitter/follow/iamvb?logo=twitter&style=for-the-badge" alt="iamvb" /></a> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **bellamvadde0393@gmail.com**
