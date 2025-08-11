@@ -1,6 +1,6 @@
 ![logo](https://imagetolink.com/ib/Bb78Dpo0Ji.png)
 <h1 align="center">Hi 👋, I'm Basavaraju VB</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A Full Stack developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
