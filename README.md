@@ -1,4 +1,4 @@
-![logo](https://imagetolink.com/ib/Bb78Dpo0Ji.png)
+
 <h1 align="center">Hi 👋, I'm Basavaraju VB</h1>
 <h3 align="center">A Full Stack developer from India</h3>
 
