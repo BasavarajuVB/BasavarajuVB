@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Basavaraju VB</h1>
 <h3 align="center">
-  A Full Stack Developer from India, passionate about the MERN Stack. Skilled in building responsive and user-friendly interfaces, integrating RESTful APIs, and ensuring smooth user experiences. Experienced in designing and developing scalable web applications using MongoDB, Express.js, React, and Node.js. Known for strong problem-solving abilities, attention to detail, and a commitment to writing clean, efficient, and maintainable code.
+  A Full Stack Developer from India, passionate about the MERN Stack. Skilled in building responsive and user-friendly interfaces, integrating RESTful APIs, and ensuring smooth user experiences.
 </h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
