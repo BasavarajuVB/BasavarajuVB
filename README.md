@@ -14,21 +14,7 @@ Passionate **MERN Stack Developer** skilled in building **responsive and user-fr
 
 ---
 
-## 🎓 Education
 
-### **Full Stack Web Development**  
-**Masai School** • Bengaluru  
-**02/2025 – 11/2025**
-
-### **MERN Stack**  
-**NxtWave** • Hyderabad  
-**10/2023 – 10/2024**
-
-### **Bachelor of Science in Computer Science**  
-**Sri Venkateswara University** • Tirupati  
-**01/2021 – 08/2024**
-
----
 
 ## 💼 Experience
 
