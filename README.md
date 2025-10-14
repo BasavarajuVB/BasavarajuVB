@@ -68,35 +68,36 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats  
 
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 25px;">
 
   <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajuvb&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasavarajuVB&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
     alt="Top Languages"
-    width="48%"
-    style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
+    width="50%"
+    style="min-width:300px; box-shadow: 0 0 25px rgba(97, 218, 251, 0.5); border-radius: 15px;"
   />
 
   <!-- Main GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=basavarajuvb&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api?username=BasavarajuVB&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
     alt="BasavarajuVB's GitHub Stats"
-    width="60%"
-    style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
+    width="70%"
+    style="min-width:300px; box-shadow: 0 0 25px rgba(97, 218, 251, 0.5); border-radius: 15px;"
   />
 
-<!-- Glassmorphism Style Streak Stats Card -->
-<div style="backdrop-filter: blur(10px); background: rgba(13, 17, 23, 0.6); padding: 15px; border-radius: 20px; box-shadow: 0 4px 30px rgba(97, 218, 251, 0.4); display: inline-block;">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=react&background=00000000&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=20" 
-    alt="BasavarajuVB's Streak Stats"
-    width="100%"
-    style="min-width:300px; border-radius: 20px;"
-  />
-</div>
-
+  <!-- Streak Stats Card with Glow & Glass Effect -->
+  <div style="backdrop-filter: blur(10px); background: rgba(13, 17, 23, 0.6); padding: 15px; border-radius: 20px; box-shadow: 0 0 25px rgba(97, 218, 251, 0.5); display: inline-block;">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=react&background=00000000&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=20" 
+      alt="BasavarajuVB's Streak Stats"
+      width="100%"
+      style="min-width:300px; border-radius: 20px;"
+    />
+  </div>
 
 </div>
