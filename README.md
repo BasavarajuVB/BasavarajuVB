@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basavaraju VB B</h1>
+<h1 align="center">Hi 👋, I'm Basavaraju VB</h1>
 <h4 align="center">A Full Stack Developer from India, passionate about the MERN Stack. Skilled in building responsive and user-friendly interfaces, integrating RESTful APIs, and ensuring smooth user experiences.</h4>
 
 <div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 40px;">
@@ -70,32 +70,30 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- Top Languages -->
+  <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasavarajuVB&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" 
-    alt="Top Languages" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=basavarajuvb&layout=compact&theme=react&title_color=61dafb&text_color=ffffff&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
+    alt="Top Languages"
+    width="48%"
+    style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
   />
 
-  <br/><br/>
-
-  <!-- Main GitHub Stats -->
+  <!-- Main GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=BasavarajuVB&show_icons=true&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&hide_border=false" 
-    alt="BasavarajuVB's GitHub Stats" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=basavarajuvb&show_icons=true&theme=react&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=61dafb&border_radius=15&hide_border=false" 
+    alt="BasavarajuVB's GitHub Stats"
+    width="60%"
+    style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
   />
 
-  <br/><br/>
-
-  <!-- Streak Stats -->
+  <!-- Streak Stats Card -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E" 
-    alt="BasavarajuVB's Streak Stats" 
-    height="170"
+    src="https://github-readme-streak-stats.herokuapp.com?user=basavarajuvb&theme=react&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=15" 
+    alt="BasavarajuVB's Streak Stats"
+    width="60%"
+    style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
   />
 
 </div>
-
