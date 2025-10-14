@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivaBoya&label=Profile%20views&color=0e75b6&style=flat" alt="ShivaBoya" /> 
+  <img src="https://komarev.com/ghpvc/?username=BasavarajuVB&label=Profile%20views&color=0e75b6&style=flat" alt="BasavarajuVB" /> 
 </p>
   <!-- Text on the side -->
   <div align="left">
@@ -68,24 +68,34 @@
 
 ---
 
-  
- ## 📊 GitHub Stats  
+## 📊 GitHub Stats  
 
 <div align="center">
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasavarajuVB&layout=compact&theme=radical" alt="Top Languages" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasavarajuVB&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D" 
+    alt="Top Languages" 
+    height="170"
+  />
 
-  <br/>
- <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=BasavarajuVB&show_icons=true&theme=radical" alt="Shiva's GitHub stats" height="170"/>
+  <br/><br/>
 
-  <br/>
+  <!-- Main GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BasavarajuVB&show_icons=true&theme=tokyonight&title_color=58A6FF&text_color=E6EDF3&icon_color=58A6FF&bg_color=0D1117&border_color=30363D&hide_border=false" 
+    alt="BasavarajuVB's GitHub Stats" 
+    height="170"
+  />
 
-<!-- Streak Stats -->
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=BasavarajuVB&theme=radical" alt="Streak Stats" height="170"/>
+  <br/><br/>
 
-
- 
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=tokyonight&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=E6EDF3&dates=8B949E&currStreakNum=E6EDF3&sideLabels=8B949E" 
+    alt="BasavarajuVB's Streak Stats" 
+    height="170"
+  />
 
 </div>
+
