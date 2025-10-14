@@ -90,7 +90,7 @@
 
   <!-- Streak Stats Card -->
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=basavarajuvb&theme=react&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=15" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=react&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=15" 
   alt="BasavarajuVB's Streak Stats"
   width="60%"
   style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
