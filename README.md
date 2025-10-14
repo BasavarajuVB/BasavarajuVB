@@ -7,7 +7,7 @@
 
 <h4 align="center">
   🚀 A <strong>Full Stack Developer</strong> from India, passionate about the <strong>MERN Stack</strong>.  
-  I love building <strong>responsive, user-friendly</strong> web applications, integrating <strong>RESTful APIs</strong>, and creating smooth user experiences.
+ I love building responsive and user-friendly web applications, ensuring they look great on any device. I enjoy seamlessly integrating RESTful APIs to add dynamic functionality and interactivity. My focus is on creating smooth, engaging, and intuitive user experiences that delight users.
 </h4>
 
 ---
@@ -31,7 +31,6 @@
     </p>
 
   <div align="left" style="max-width: 400px; margin: 0 auto;">
-    <p>💼 <strong>Currently working at:</strong> <span style="color:#00C6FF;">Web3Today Pvt Ltd</span> as a <strong>Full Stack Developer</strong></p>
     <p>🧠 Building Telegram Mini Apps, integrating Web3 wallets, and working with Solidity + Firebase.</p>
     <p>🏅 <strong>Certified Industry Ready Developer</strong> by <strong>NxtWave</strong>.</p>
     <p>💬 Ask me about <i>MERN, DSA, Web3</i></p>
