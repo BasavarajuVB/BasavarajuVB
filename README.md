@@ -88,13 +88,15 @@
     style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
   />
 
-  <!-- Streak Stats Card -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=react&background=0D1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=15" 
-  alt="BasavarajuVB's Streak Stats"
-  width="60%"
-  style="min-width:300px; box-shadow: 0 0 20px rgba(97, 218, 251, 0.4); border-radius: 15px;"
-/>
+<!-- Glassmorphism Style Streak Stats Card -->
+<div style="backdrop-filter: blur(10px); background: rgba(13, 17, 23, 0.6); padding: 15px; border-radius: 20px; box-shadow: 0 4px 30px rgba(97, 218, 251, 0.4); display: inline-block;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=BasavarajuVB&theme=react&background=00000000&ring=61dafb&fire=61dafb&currStreakLabel=61dafb&sideNums=ffffff&dates=8B949E&currStreakNum=ffffff&sideLabels=8B949E&border=61dafb&border_radius=20" 
+    alt="BasavarajuVB's Streak Stats"
+    width="100%"
+    style="min-width:300px; border-radius: 20px;"
+  />
+</div>
 
 
 </div>
